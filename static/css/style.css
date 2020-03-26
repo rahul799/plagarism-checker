@@ -250,6 +250,10 @@ footer img {
 	transition: all .2s ease;
 }
 
-footer img:hover { opacity: .83; }
+footer img:hover { 
+	opacity: .83; 
+}
 
-footer img:focus , footer a:focus { outline: none; }
+footer img:focus , footer a:focus { 
+	outline: none; 
+}
